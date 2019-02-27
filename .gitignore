@@ -1,5 +1,5 @@
-.env
-.Rproj
-.Rhistory
-.RData
-.Rproj.user
+*.env
+*.Rproj
+*.Rhistory
+*.RData
+*.Rproj.user
